@@ -26,6 +26,12 @@
 
 ## Tables
 
+Name|Age
+----|---
+Aza|28
+Kira|29
+Yulya|33
+
 ## Quotes
 
 ## Conclusion
