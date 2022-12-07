@@ -24,6 +24,8 @@
 
 ## Link's
 
+[example link](http://google.com/ "additional description")
+
 ## Tables
 
 ## Quotes
