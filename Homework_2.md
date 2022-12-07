@@ -20,7 +20,11 @@
 
 ## Pictures
 
+<<<<<<< HEAD
 ![for add image - model](/gb_study_project/pic_1.jpg)
+=======
+![for add image - model](/gb_study_project/pic_2.jpg)
+>>>>>>> Pictures_homework_2
 
 ## Link's
 
