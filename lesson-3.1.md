@@ -3,7 +3,7 @@
 # Normalin normalin...
 ~~~
 ~~~Python
-import math
+giimport math
 for i in range(5):
     a = 5
 ~~~
