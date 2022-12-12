@@ -4,4 +4,6 @@
 * We shoud go to home:
     * and take money
     * call to friends
+
+* OMG i do it
     
